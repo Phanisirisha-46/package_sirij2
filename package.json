@@ -1,0 +1,15 @@
+{
+  "name": "package_sirij2",
+  "version": "1.0.0",
+  "description": "a npm greeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(git+https://github.com/Phanisirisha-46/package_j2)"
+  },
+  "author": "siri",
+  "license": "ISC"
+}
